@@ -402,3 +402,5 @@ FodyWeavers.xsd
 
 *.env
 Codigo/mi_archivo_secreto.txt
+*.csv
+*.parquet
